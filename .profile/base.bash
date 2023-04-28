@@ -15,7 +15,7 @@ export NETCDF_PATH="/usr/include"
 
 # pathname for the CDF software
 
-export CDF_PATH="/davit/lib/cdf/cdf33_0/cdf"
+export CDF_PATH="/usr/local/cdf"
 
 # SVG library
 
